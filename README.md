@@ -4,7 +4,9 @@ The aim of Project_Cicero is to explore ways of introducing blockchain technolog
 # Curriculum:
 Project_Cicero aims to develop curriculum that can be used in schools to introduce the history, concepts and technical aspects of blockchain technology, initially focusing on Bitcoin and Ethereum. 
 
+
 Examples of key points in blockchain history:
+
 Bitcoin:
 Satoshi Nakamoto's Bitcoin White Paper
 Segwit 2X
