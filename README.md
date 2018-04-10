@@ -11,7 +11,7 @@ Bitcoin:
 Satoshi Nakamoto's Bitcoin White Paper, Segwit 2X
 
 Ethereum:
-Ethereum White Paper, DAO Hardfork, ICO Craze (2017)
+Ethereum White Paper, DAO Hardfork, ICO Madness (2017)
 
 Concepts / Readings:
 History of Money, Smart Contracts - Nick Szabo (1994), The Internet of Money
@@ -31,4 +31,6 @@ Project_Cicero can also advise schools on how to enter the shared economy by ren
 
 For students:
 
-Providing students with knowledge to build their own smart contract that acts as the voting mechanism for student elections is one example of how Project_Cicero will begin to link curriculum with practical applications.
+Providing students with knowledge to build their own smart contract that acts as the voting mechanism for student elections is one example of how Project_Cicero will begin to link curriculum with practical applications. See link below as an example:
+
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
