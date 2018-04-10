@@ -8,17 +8,13 @@ Project_Cicero aims to develop curriculum that can be used in schools to introdu
 Examples of key points in blockchain history:
 
 Bitcoin:
-Satoshi Nakamoto's Bitcoin White Paper
-Segwit 2X
+Satoshi Nakamoto's Bitcoin White Paper, Segwit 2X
 
 Ethereum:
-Ethereum White Paper
-DAO Hardfork
-ICO Craze (2017)
+Ethereum White Paper, DAO Hardfork, ICO Craze (2017)
 
-Concepts:
-History of Money
-Smart Contracts - Nick Szabo (1994)
+Concepts / Readings:
+History of Money, Smart Contracts - Nick Szabo (1994), The Internet of Money
 
 # Practical use cases - Ethereum and Smart Contracts 
 For teachers:
