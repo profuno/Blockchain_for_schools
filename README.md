@@ -1,6 +1,6 @@
 # Project_Cicero
 
-Project_Cicero aims to develop a curriculum and set of resources to help schools introduce the concepts of Blockchain (primarily Bitcoin and Ethereum) to their students, as well as educating the educators on the power and emerging importance of cryptocurrencies. It is hoped that the curriculum is accessible to regular educators with an interest in technology and any forward thinking leaders in the field of education.
+Project_Cicero aims to develop a curriculum and set of resources to help schools introduce the concepts of Blockchain (primarily Bitcoin and Ethereum) to their students, as well as educating the educators on the power and emerging importance of crypto assests. It is hoped that the curriculum is accessible to regular educators with an interest in technology and any forward thinking leaders in the field of education.
 
 # Curriculum:
 Project_Cicero aims to develop curriculum that can be used in schools to introduce the history, concepts and technical aspects of blockchain technology, initially focusing on Bitcoin and Ethereum. 
