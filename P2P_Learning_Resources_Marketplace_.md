@@ -1,6 +1,6 @@
-One of the ideas that P_C would like to develop is a peer to peer marketplace for teachers to exchange teaching and learning resources.
+P_C would like to develop a peer to peer marketplace for teaching and learning resources.
 
-P_C would like to maximise the profits made by teachers on the resources they sell by having the smallest transaction fee possible. Even if this fee was 5% of the profits going towards the platform, this would be a 10 fold increase on other popular options on the market today. 
+P_C would like to maximise the profits made by teachers on the resources they sell by removing centralised parties. The current online marketplace leader, TeachersPayTeachers (TPT), takes a cut of 45% on sales (there is also a annual subscription account - $60yr -  which takes a cut of 20%). TPT have made millions of dollars worth of sales made since its inception in 2006.
 
 It is possible to imagine that a series of smart contracts could also work in a way where school districts could incentivise teachers to develop the higest quality lesson plans or learning resources possible, and offering them for sale to their entire school district. The school in this way could potentially share in the teachers profit and the teacher could benefit from the school district acting as a 'certifying of quality content' to gain greater exposure.
 
