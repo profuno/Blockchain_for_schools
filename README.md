@@ -2,6 +2,8 @@
 
 Project_Cicero aims to develop a curriculum and set of resources to help schools introduce the concepts of Blockchain (primarily Bitcoin and Ethereum) to their students, as well as educating the educators on the power and emerging importance of crypto assests. It is hoped that the curriculum is accessible to regular educators with an interest in technology and any forward thinking leaders in the field of education.
 
+<object width="460" height="460"><param value="http://popplet.com/app/Popplet_Alpha.swf?page_id=4634708&em=1" name="movie"></param><param value="true" name="allowFullScreen"></param><param value="always" name="allowscriptaccess"></param><embed src="http://popplet.com/app/Popplet_Alpha.swf?page_id=4634708&em=1" height="460" width="460" allowfullscreen="false" allowscriptaccess="always" type="application/x-shockwave-flash"></embed></object>
+
 # Curriculum:
 Project_Cicero aims to develop curriculum that can be used in schools to introduce the history, concepts and technical aspects of blockchain technology, initially focusing on Bitcoin and Ethereum. 
 
