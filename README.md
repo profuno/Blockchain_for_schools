@@ -37,3 +37,6 @@ For students:
 Providing students with knowledge to build their own smart contract that acts as the voting mechanism for student elections is one example of how Project_Cicero will begin to link curriculum with practical applications. See link below as an example:
 
 https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
+
+# Gitcoin for curriculum and Learning Resources
+
