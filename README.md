@@ -18,6 +18,7 @@ Ethereum White Paper, DAO Hardfork, ICO Madness (2017)
 
 Concepts / Readings:
 History of Money, Smart Contracts - Nick Szabo (1994), The Internet of Money
+https://hackernoon.com/how-to-run-a-blockchain-on-a-deserted-island-with-pen-and-paper-899949ec555b
 
 # Practical use cases - Ethereum and Smart Contracts 
 For teachers:
